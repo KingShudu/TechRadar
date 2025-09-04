@@ -1,3 +1,4 @@
+name,ring,quadrant,isNew,description
 Agile Testing,Adopt,Techniques,FALSE,"Testing approach integrated into agile development cycles. Emphasizes continuous testing, early feedback, and collaboration between development and testing teams."
 Test-Driven Development,Adopt,Techniques,FALSE,"Development practice where tests are written before code implementation. Improves code quality and provides living documentation for system behavior."
 Continuous Integration,Adopt,Techniques,FALSE,"Practice of frequently integrating code changes with automated testing. Essential for maintaining code quality and enabling rapid delivery cycles."
